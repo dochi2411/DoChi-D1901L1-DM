@@ -1,0 +1,8 @@
+2020-03-19T15:14:10+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\dochi\wp-content\plugins\woocommerce\vendor\automattic\jetpack-constants\src\class-constants.php on line 112
+
+2020-03-19T15:14:14+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\dochi\wp-content\plugins\woocommerce-checkout-manager\includes\view\frontend\class-wooccm-fields-disable.php on line 188
+
+2020-03-19T15:14:23+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\dochi\wp-includes\wp-db.php on line 1924
+
+2020-03-19T15:14:32+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\dochi\wp-content\plugins\woocommerce\includes\admin\class-wc-admin-importers.php on line 306
+
